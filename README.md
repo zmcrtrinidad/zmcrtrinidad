@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zinia</h1>
-<h3 align="center">A passionate Web Designer from Philippines</h3>
+<h3 align="center">A passionate Web Developer from Philippines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zmcrtrinidad&label=Profile%20views&color=0e75b6&style=flat" alt="zmcrtrinidad" /> </p>
 
