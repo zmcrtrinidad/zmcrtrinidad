@@ -1,4 +1,4 @@
-# 💫 About Me:[ziniatrinidad](https://ziniatrinidad.vercel.app/)
+# 💫 About Me: [ziniatrinidad](https://ziniatrinidad.vercel.app/)
 🌱 I’m currently learning PHP/Laravel, Shopify<br>📫 How to reach me zmcrtrinidad@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/zinia-trinidad/<br> 
 
 
